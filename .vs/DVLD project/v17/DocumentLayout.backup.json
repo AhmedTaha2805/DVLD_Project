@@ -1,0 +1,1918 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB68B5-208E-4C53-9F02-9F52EF23C5D7}|..\\LocalDrivingLicenseApplicationsDataAccessLayer\\LocalDrivingLicenseApplicationsDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\localdrivinglicenseapplicationsdataaccesslayer\\localdrivinglicenseapplicationsdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE0525E-963D-4C75-B0E9-93C9D953B832}|..\\LocalDrivingLicenseApplicationsBuisnessLayer\\LocalDrivingLicenseApplicationsBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\localdrivinglicenseapplicationsbuisnesslayer\\clslocallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmlocaldrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmlocaldrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmlocaldrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmlocaldrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmissuedrivinglicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmissuedrivinglicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmissuedrivinglicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmissuedrivinglicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94C2870-A321-44C3-B471-F6D07F3B5F68}|..\\ApplicationBuisnessLayer\\ApplicationBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\applicationbuisnesslayer\\clsapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503F6748-1702-4E3D-959A-141D76717945}|..\\ApplicationsDataAccessLayer\\ApplicationsDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\applicationsdataaccesslayer\\applicationsdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmnewlocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmnewlocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\applicationinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:applicationinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmnewlocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmnewlocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\addpersoncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:addpersoncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\addeditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:addeditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\addeditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:addeditperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmaddedituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\addpersoncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:addpersoncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmreleasedetain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmreleasedetain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmreleasedetain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmreleasedetain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmmanagedetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmmanagedetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmmanagedetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmmanagedetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\userdetailscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:userdetailscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\searchlicensecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:searchlicensecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\persondetailswithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:persondetailswithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\persondetailscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:persondetailscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\persondetailscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:persondetailscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\peopleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:peopleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\peopleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:peopleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\licenseinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:licenseinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\intlicenseinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:intlicenseinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\intlicenseinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:intlicenseinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmwrittentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmwrittentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmwrittentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmwrittentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmvisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmvisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmvisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmvisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmtakewrittentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmtakewrittentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmtakewrittentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmtakewrittentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmtakevisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmtakevisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmtakevisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmtakevisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmtakestreettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmtakestreettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmtakestreettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmtakestreettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmstreettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmstreettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmstreettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmstreettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmshowlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmshowlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmshowlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmshowlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmshowintlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmshowintlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmshowintlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmshowintlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmshowapplicationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmshowapplicationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmschedulewrittentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmschedulewrittentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmschedulewrittentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmschedulewrittentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmschedulevisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmschedulevisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmschedulevisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmschedulevisiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmschedulestreettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmschedulestreettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmschedulestreettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmschedulestreettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmreplacment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmreplacment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmreplacment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmreplacment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmrenewlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmrenewlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmrenewlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmrenewlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\persondetailswithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:persondetailswithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmmanagetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmmanagetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmmanagetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmmanagetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmmanageinternationallicensesapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmmanageinternationallicensesapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmmanagedrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmmanagedrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmmanagedrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmmanagedrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frminternationlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frminternationlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frminternationlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frminternationlicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmedittesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmedittesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmedittesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmedittesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmeditapptypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmeditapptypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmeditapptypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmeditapptypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|c:\\users\\kimostore\\source\\repos\\dvld project\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmmanageinternationallicensesapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmmanageinternationallicensesapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\searchlicensecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:searchlicensecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B82306-1BF8-4EAB-B48F-6E944A0E8AC3}|..\\DetainedLicensesDataAccessLayer\\DetainedLicensesDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\detainedlicensesdataaccesslayer\\detainedlicensesdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3CE081F-E290-4CDD-895E-F13CA7569A17}|..\\DetainedLicensesBuisnessLayer\\DetainedLicensesBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\detainedlicensesbuisnesslayer\\clsdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08904296-F9CC-4F31-9F1B-AE609AF448C0}|..\\PeopleDataAccessLayer\\PeopleDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\peopledataaccesslayer\\peopledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1F2543-D34C-42B3-B843-E3C1BB1B8B17}|..\\LicensesBuisnessLayer\\LicensesBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\licensesbuisnesslayer\\clslicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E3D809-78FE-42E3-8D99-216CB0C588A8}|..\\ApplicationTypesBuisnessLayer\\ApplicationTypesBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\applicationtypesbuisnesslayer\\clsapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFFB317-D260-4811-B232-3EF6DDCC0199}|..\\LicensesDataAccessLayer\\LicensesDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\licensesdataaccesslayer\\licensesdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\licenseinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:licenseinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:frmlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7EDA901-8C8F-4695-AF0F-322A7851846E}|..\\LicenseClassesDataAccessLayer\\LicenseClassesDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\licenseclassesdataaccesslayer\\licenseclassesdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE8A803-F14B-404A-A231-6A8A5918B015}|..\\LicenseClassesBuisnessLayer\\LicenseClassesBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\licenseclassesbuisnesslayer\\clslicenseclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D878A207-A344-459D-9446-D1AB4F20D46D}|..\\InternationalLicensesBuisnessLayer\\InternationalLicensesBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\internationallicensesbuisnesslayer\\clsintlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD6FABD-4EFD-40B7-9672-D4D171D3B5CE}|..\\IntLicensesDataAccessLayer\\IntLicensesDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\intlicensesdataaccesslayer\\intlicensesdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4FD20-C1F1-46AC-A96D-B956CC257C10}|..\\DriversBuisnessLayer\\DriversBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\driversbuisnesslayer\\clsdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BA96A4-31E6-4109-8B37-491E4E849694}|..\\DriversDataAccessLayer\\DriversDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\driversdataaccesslayer\\driversdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D53F58D-6904-4E9B-9CAF-214E34CABA0F}|..\\PeopleBuisnessLayer\\PeopleBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\peoplebuisnesslayer\\peoplebuisness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\userdetailscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:userdetailscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091B83B4-9C0B-44F8-A79E-8E219B9C1E07}|..\\..\\..\\Desktop\\UsersDataAccessLayer\\UsersDataAccessLayer.csproj|c:\\users\\kimostore\\desktop\\usersdataaccesslayer\\usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|C:\\Users\\KimoStore\\source\\repos\\DVLD project\\applicationinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753651-C0FE-4A99-BB98-83C39FB1E560}|DVLD project.csproj|solutionrelative:applicationinfocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1333A37E-CE32-4D8F-BA78-F8E12B8EE056}|..\\..\\..\\Desktop\\UsersBuisnessLayer\\UsersBuisnessLayer.csproj|c:\\users\\kimostore\\desktop\\usersbuisnesslayer\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F468CD-F925-40B4-940E-40342529708F}|..\\TestsDataAccessLayer\\TestsDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\testsdataaccesslayer\\testsdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6E9562-9643-48BF-A0CC-1A416410E097}|..\\TestsBuisnessLayer\\TestsBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\testsbuisnesslayer\\clstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4936E55D-DA27-4A36-AAF3-5A4CA6B0CCC8}|..\\TestTypesDataAccessLayer\\TestTypesDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\testtypesdataaccesslayer\\testtypesdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0CB1A4-7E9D-4830-81F0-F325F85DE3F4}|..\\TestAppointmentsDataAccessLayer\\TestAppointmentsDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\testappointmentsdataaccesslayer\\testappointmentsdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47186344-D49E-445B-86AC-2D8E0DE4D88A}|..\\TestAppointmentsBuisnessLayer\\TestAppointmentsBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\testappointmentsbuisnesslayer\\clstestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FF15EF-E2FD-4A68-87DF-A2CCD1566BA9}|..\\ApplicationTypesDataAccessLayer\\ApplicationTypesDataAccessLayer.csproj|c:\\users\\kimostore\\source\\repos\\applicationtypesdataaccesslayer\\applicationtypesdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05DA41-D1FC-49F4-AE1D-0867E4558BA9}|..\\TestTypesBuisnessLayer\\TestTypesBuisnessLayer.csproj|c:\\users\\kimostore\\source\\repos\\testtypesbuisnesslayer\\clstesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE7B1-04D3-44FA-9B9C-C749530AA5E7}|..\\CurrentUserInformation\\CurrentUserInformation.csproj|c:\\users\\kimostore\\source\\repos\\currentuserinformation\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 43,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmDetainLicense.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "frmDetainLicense.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmDetainLicense.cs",
+              "RelativeToolTip": "frmDetainLicense.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T12:59:53.158Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmRenewLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmRenewLicenseApplication.cs",
+              "RelativeDocumentMoniker": "frmRenewLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmRenewLicenseApplication.cs",
+              "RelativeToolTip": "frmRenewLicenseApplication.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:08:20.38Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmDetainLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "frmDetainLicense.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmDetainLicense.cs [Design]",
+              "RelativeToolTip": "frmDetainLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T12:42:24.15Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmReleaseDetain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmReleaseDetain.cs",
+              "RelativeDocumentMoniker": "frmReleaseDetain.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmReleaseDetain.cs [Design]",
+              "RelativeToolTip": "frmReleaseDetain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T14:25:47.907Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmReleaseDetain.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmReleaseDetain.cs",
+              "RelativeDocumentMoniker": "frmReleaseDetain.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmReleaseDetain.cs",
+              "RelativeToolTip": "frmReleaseDetain.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T14:42:58.647Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "DetainedLicensesDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DetainedLicensesDataAccessLayer\\DetainedLicensesDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\DetainedLicensesDataAccessLayer\\DetainedLicensesDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DetainedLicensesDataAccessLayer\\DetainedLicensesDataAccess.cs",
+              "RelativeToolTip": "..\\DetainedLicensesDataAccessLayer\\DetainedLicensesDataAccess.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T23:29:27.282Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "clsDetainedLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DetainedLicensesBuisnessLayer\\clsDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "..\\DetainedLicensesBuisnessLayer\\clsDetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DetainedLicensesBuisnessLayer\\clsDetainedLicenses.cs",
+              "RelativeToolTip": "..\\DetainedLicensesBuisnessLayer\\clsDetainedLicenses.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwGEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T23:28:36.765Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "LicensesDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\LicensesDataAccessLayer\\LicensesDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\LicensesDataAccessLayer\\LicensesDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\LicensesDataAccessLayer\\LicensesDataAccess.cs",
+              "RelativeToolTip": "..\\LicensesDataAccessLayer\\LicensesDataAccess.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwLkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:37:11.142Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmManageDetainedLicenses.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "frmManageDetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageDetainedLicenses.cs [Design]",
+              "RelativeToolTip": "frmManageDetainedLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:23:24.477Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmManageDetainedLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "frmManageDetainedLicenses.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageDetainedLicenses.cs",
+              "RelativeToolTip": "frmManageDetainedLicenses.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwGQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:30:01.836Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "frmManageInternationalLicensesApplications.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageInternationalLicensesApplications.cs",
+              "RelativeDocumentMoniker": "frmManageInternationalLicensesApplications.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageInternationalLicensesApplications.cs",
+              "RelativeToolTip": "frmManageInternationalLicensesApplications.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAHkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:15:12.655Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frmReplacment.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmReplacment.cs",
+              "RelativeDocumentMoniker": "frmReplacment.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmReplacment.cs",
+              "RelativeToolTip": "frmReplacment.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:42:11.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmReplacment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmReplacment.cs",
+              "RelativeDocumentMoniker": "frmReplacment.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmReplacment.cs [Design]",
+              "RelativeToolTip": "frmReplacment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:30:44.053Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "frmLicenseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmLicenseInfo.cs",
+              "RelativeDocumentMoniker": "frmLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmLicenseInfo.cs",
+              "RelativeToolTip": "frmLicenseInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:12:04.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "frmRenewLicenseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmRenewLicenseApplication.cs",
+              "RelativeDocumentMoniker": "frmRenewLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmRenewLicenseApplication.cs [Design]",
+              "RelativeToolTip": "frmRenewLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:59:45.959Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "frmManageInternationalLicensesApplications.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageInternationalLicensesApplications.cs",
+              "RelativeDocumentMoniker": "frmManageInternationalLicensesApplications.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageInternationalLicensesApplications.cs [Design]",
+              "RelativeToolTip": "frmManageInternationalLicensesApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T18:12:51.251Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmShowIntLicense.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmShowIntLicense.cs",
+              "RelativeDocumentMoniker": "frmShowIntLicense.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmShowIntLicense.cs",
+              "RelativeToolTip": "frmShowIntLicense.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwBEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:28:52.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmShowIntLicense.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmShowIntLicense.cs",
+              "RelativeDocumentMoniker": "frmShowIntLicense.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmShowIntLicense.cs [Design]",
+              "RelativeToolTip": "frmShowIntLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:24:13.758Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IntLicenseInfoControl.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\IntLicenseInfoControl.cs",
+              "RelativeDocumentMoniker": "IntLicenseInfoControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\IntLicenseInfoControl.cs",
+              "RelativeToolTip": "IntLicenseInfoControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:02:12.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IntLicenseInfoControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\IntLicenseInfoControl.cs",
+              "RelativeDocumentMoniker": "IntLicenseInfoControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\IntLicenseInfoControl.cs [Design]",
+              "RelativeToolTip": "IntLicenseInfoControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:57:17.407Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "PeopleBuisness.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\PeopleBuisnessLayer\\PeopleBuisness.cs",
+              "RelativeDocumentMoniker": "..\\PeopleBuisnessLayer\\PeopleBuisness.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\PeopleBuisnessLayer\\PeopleBuisness.cs",
+              "RelativeToolTip": "..\\PeopleBuisnessLayer\\PeopleBuisness.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwEoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:44:21.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PeopleForm.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\PeopleForm.cs",
+              "RelativeDocumentMoniker": "PeopleForm.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\PeopleForm.cs",
+              "RelativeToolTip": "PeopleForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwDAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T00:35:08.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "frmInternationLicenseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmInternationLicenseApplication.cs",
+              "RelativeDocumentMoniker": "frmInternationLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmInternationLicenseApplication.cs [Design]",
+              "RelativeToolTip": "frmInternationLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:08:06.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "frmInternationLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmInternationLicenseApplication.cs",
+              "RelativeDocumentMoniker": "frmInternationLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmInternationLicenseApplication.cs",
+              "RelativeToolTip": "frmInternationLicenseApplication.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:21:49.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "IntLicensesDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\IntLicensesDataAccessLayer\\IntLicensesDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\IntLicensesDataAccessLayer\\IntLicensesDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\IntLicensesDataAccessLayer\\IntLicensesDataAccess.cs",
+              "RelativeToolTip": "..\\IntLicensesDataAccessLayer\\IntLicensesDataAccess.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAA3wK4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:01:06.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "clsIntLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\InternationalLicensesBuisnessLayer\\clsIntLicenses.cs",
+              "RelativeDocumentMoniker": "..\\InternationalLicensesBuisnessLayer\\clsIntLicenses.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\InternationalLicensesBuisnessLayer\\clsIntLicenses.cs",
+              "RelativeToolTip": "..\\InternationalLicensesBuisnessLayer\\clsIntLicenses.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:55:53.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "SearchLicenseControl.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\SearchLicenseControl.cs",
+              "RelativeDocumentMoniker": "SearchLicenseControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\SearchLicenseControl.cs",
+              "RelativeToolTip": "SearchLicenseControl.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:45:50.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SearchLicenseControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\SearchLicenseControl.cs",
+              "RelativeDocumentMoniker": "SearchLicenseControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\SearchLicenseControl.cs [Design]",
+              "RelativeToolTip": "SearchLicenseControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:44:35.294Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmShowLicenseHistory.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmShowLicenseHistory.cs",
+              "RelativeDocumentMoniker": "frmShowLicenseHistory.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmShowLicenseHistory.cs",
+              "RelativeToolTip": "frmShowLicenseHistory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:54:48.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmShowLicenseHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmShowLicenseHistory.cs",
+              "RelativeDocumentMoniker": "frmShowLicenseHistory.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmShowLicenseHistory.cs [Design]",
+              "RelativeToolTip": "frmShowLicenseHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:53:42.303Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "frmLicenseInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmLicenseInfo.cs",
+              "RelativeDocumentMoniker": "frmLicenseInfo.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmLicenseInfo.cs [Design]",
+              "RelativeToolTip": "frmLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:07:32.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LicenseInfoControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\LicenseInfoControl.cs",
+              "RelativeDocumentMoniker": "LicenseInfoControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\LicenseInfoControl.cs [Design]",
+              "RelativeToolTip": "LicenseInfoControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:04:36.238Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "LicenseInfoControl.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\LicenseInfoControl.cs",
+              "RelativeDocumentMoniker": "LicenseInfoControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\LicenseInfoControl.cs",
+              "RelativeToolTip": "LicenseInfoControl.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:13:06.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "frmManageDrivers.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageDrivers.cs",
+              "RelativeDocumentMoniker": "frmManageDrivers.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageDrivers.cs",
+              "RelativeToolTip": "frmManageDrivers.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAArwDkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:54:08.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "frmManageDrivers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageDrivers.cs",
+              "RelativeDocumentMoniker": "frmManageDrivers.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageDrivers.cs [Design]",
+              "RelativeToolTip": "frmManageDrivers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:52:26.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "clsLicenses.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\LicensesBuisnessLayer\\clsLicenses.cs",
+              "RelativeDocumentMoniker": "..\\LicensesBuisnessLayer\\clsLicenses.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\LicensesBuisnessLayer\\clsLicenses.cs",
+              "RelativeToolTip": "..\\LicensesBuisnessLayer\\clsLicenses.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwKUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:36:43.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "DriversDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DriversDataAccessLayer\\DriversDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\DriversDataAccessLayer\\DriversDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DriversDataAccessLayer\\DriversDataAccess.cs",
+              "RelativeToolTip": "..\\DriversDataAccessLayer\\DriversDataAccess.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAJ0AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:08:14.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "clsDrivers.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DriversBuisnessLayer\\clsDrivers.cs",
+              "RelativeDocumentMoniker": "..\\DriversBuisnessLayer\\clsDrivers.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DriversBuisnessLayer\\clsDrivers.cs",
+              "RelativeToolTip": "..\\DriversBuisnessLayer\\clsDrivers.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:07:31.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmIssueDrivingLicenseFirstTime.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmIssueDrivingLicenseFirstTime.cs",
+              "RelativeDocumentMoniker": "frmIssueDrivingLicenseFirstTime.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmIssueDrivingLicenseFirstTime.cs",
+              "RelativeToolTip": "frmIssueDrivingLicenseFirstTime.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA+wCEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T19:59:50.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmIssueDrivingLicenseFirstTime.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmIssueDrivingLicenseFirstTime.cs",
+              "RelativeDocumentMoniker": "frmIssueDrivingLicenseFirstTime.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmIssueDrivingLicenseFirstTime.cs [Design]",
+              "RelativeToolTip": "frmIssueDrivingLicenseFirstTime.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T19:56:43.238Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocalDrivingLicenseApplicationsDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\LocalDrivingLicenseApplicationsDataAccessLayer\\LocalDrivingLicenseApplicationsDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\LocalDrivingLicenseApplicationsDataAccessLayer\\LocalDrivingLicenseApplicationsDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\LocalDrivingLicenseApplicationsDataAccessLayer\\LocalDrivingLicenseApplicationsDataAccess.cs",
+              "RelativeToolTip": "..\\LocalDrivingLicenseApplicationsDataAccessLayer\\LocalDrivingLicenseApplicationsDataAccess.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwGYAAAD6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:53:30.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmShowApplicationDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmShowApplicationDetails.cs",
+              "RelativeDocumentMoniker": "frmShowApplicationDetails.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmShowApplicationDetails.cs [Design]",
+              "RelativeToolTip": "frmShowApplicationDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:54:02.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmTakeStreetTest.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmTakeStreetTest.cs",
+              "RelativeDocumentMoniker": "frmTakeStreetTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmTakeStreetTest.cs",
+              "RelativeToolTip": "frmTakeStreetTest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:55:28.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmTakeStreetTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmTakeStreetTest.cs",
+              "RelativeDocumentMoniker": "frmTakeStreetTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmTakeStreetTest.cs [Design]",
+              "RelativeToolTip": "frmTakeStreetTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:51:58.195Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmTakeWrittenTest.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmTakeWrittenTest.cs",
+              "RelativeDocumentMoniker": "frmTakeWrittenTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmTakeWrittenTest.cs",
+              "RelativeToolTip": "frmTakeWrittenTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:44:13.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmTakeWrittenTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmTakeWrittenTest.cs",
+              "RelativeDocumentMoniker": "frmTakeWrittenTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmTakeWrittenTest.cs [Design]",
+              "RelativeToolTip": "frmTakeWrittenTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:41:45.768Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmTakeVisionTest.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmTakeVisionTest.cs",
+              "RelativeDocumentMoniker": "frmTakeVisionTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmTakeVisionTest.cs",
+              "RelativeToolTip": "frmTakeVisionTest.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:35:22.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmTakeVisionTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmTakeVisionTest.cs",
+              "RelativeDocumentMoniker": "frmTakeVisionTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmTakeVisionTest.cs [Design]",
+              "RelativeToolTip": "frmTakeVisionTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:22:11.67Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "TestsDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\TestsDataAccessLayer\\TestsDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\TestsDataAccessLayer\\TestsDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\TestsDataAccessLayer\\TestsDataAccess.cs",
+              "RelativeToolTip": "..\\TestsDataAccessLayer\\TestsDataAccess.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwIAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:04:32.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "clsTests.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\TestsBuisnessLayer\\clsTests.cs",
+              "RelativeDocumentMoniker": "..\\TestsBuisnessLayer\\clsTests.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\TestsBuisnessLayer\\clsTests.cs",
+              "RelativeToolTip": "..\\TestsBuisnessLayer\\clsTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADgvy8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:57:57.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmStreetTest.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmStreetTest.cs",
+              "RelativeDocumentMoniker": "frmStreetTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmStreetTest.cs",
+              "RelativeToolTip": "frmStreetTest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:56:55.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmStreetTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmStreetTest.cs",
+              "RelativeDocumentMoniker": "frmStreetTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmStreetTest.cs [Design]",
+              "RelativeToolTip": "frmStreetTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:54:14.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FrmScheduleStreetTest.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\FrmScheduleStreetTest.cs",
+              "RelativeDocumentMoniker": "FrmScheduleStreetTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\FrmScheduleStreetTest.cs",
+              "RelativeToolTip": "FrmScheduleStreetTest.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:51:54.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FrmScheduleStreetTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\FrmScheduleStreetTest.cs",
+              "RelativeDocumentMoniker": "FrmScheduleStreetTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\FrmScheduleStreetTest.cs [Design]",
+              "RelativeToolTip": "FrmScheduleStreetTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:50:02.583Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmWrittenTest.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmWrittenTest.cs",
+              "RelativeDocumentMoniker": "frmWrittenTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmWrittenTest.cs",
+              "RelativeToolTip": "frmWrittenTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:43:26.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmWrittenTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmWrittenTest.cs",
+              "RelativeDocumentMoniker": "frmWrittenTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmWrittenTest.cs [Design]",
+              "RelativeToolTip": "frmWrittenTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:42:00.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmScheduleWrittenTest.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmScheduleWrittenTest.cs",
+              "RelativeDocumentMoniker": "frmScheduleWrittenTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmScheduleWrittenTest.cs",
+              "RelativeToolTip": "frmScheduleWrittenTest.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAE4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:37:27.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmScheduleWrittenTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmScheduleWrittenTest.cs",
+              "RelativeDocumentMoniker": "frmScheduleWrittenTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmScheduleWrittenTest.cs [Design]",
+              "RelativeToolTip": "frmScheduleWrittenTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:31:59.677Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmVisionTest.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmVisionTest.cs",
+              "RelativeDocumentMoniker": "frmVisionTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmVisionTest.cs",
+              "RelativeToolTip": "frmVisionTest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:02:33.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmVisionTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmVisionTest.cs",
+              "RelativeDocumentMoniker": "frmVisionTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmVisionTest.cs [Design]",
+              "RelativeToolTip": "frmVisionTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T23:43:10.291Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "TestAppointmentsDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\TestAppointmentsDataAccessLayer\\TestAppointmentsDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\TestAppointmentsDataAccessLayer\\TestAppointmentsDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\TestAppointmentsDataAccessLayer\\TestAppointmentsDataAccess.cs",
+              "RelativeToolTip": "..\\TestAppointmentsDataAccessLayer\\TestAppointmentsDataAccess.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAADgv/IAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T23:04:29.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "clsTestAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\TestAppointmentsBuisnessLayer\\clsTestAppointments.cs",
+              "RelativeDocumentMoniker": "..\\TestAppointmentsBuisnessLayer\\clsTestAppointments.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\TestAppointmentsBuisnessLayer\\clsTestAppointments.cs",
+              "RelativeToolTip": "..\\TestAppointmentsBuisnessLayer\\clsTestAppointments.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAEwEcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T23:03:57.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmScheduleVisionTest.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmScheduleVisionTest.cs",
+              "RelativeDocumentMoniker": "frmScheduleVisionTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmScheduleVisionTest.cs",
+              "RelativeToolTip": "frmScheduleVisionTest.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:48:04.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmScheduleVisionTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmScheduleVisionTest.cs",
+              "RelativeDocumentMoniker": "frmScheduleVisionTest.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmScheduleVisionTest.cs [Design]",
+              "RelativeToolTip": "frmScheduleVisionTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:31:28.845Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "ApplicationInfoControl.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\ApplicationInfoControl.cs",
+              "RelativeDocumentMoniker": "ApplicationInfoControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\ApplicationInfoControl.cs",
+              "RelativeToolTip": "ApplicationInfoControl.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAWwCsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:04:01.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationInfoControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\ApplicationInfoControl.cs",
+              "RelativeDocumentMoniker": "ApplicationInfoControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\ApplicationInfoControl.cs [Design]",
+              "RelativeToolTip": "ApplicationInfoControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:53:49.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLocalDrivingLicenseApplications.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmLocalDrivingLicenseApplications.cs",
+              "RelativeDocumentMoniker": "frmLocalDrivingLicenseApplications.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmLocalDrivingLicenseApplications.cs",
+              "RelativeToolTip": "frmLocalDrivingLicenseApplications.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:56:39.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLocalDrivingLicenseApplications.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmLocalDrivingLicenseApplications.cs",
+              "RelativeDocumentMoniker": "frmLocalDrivingLicenseApplications.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmLocalDrivingLicenseApplications.cs [Design]",
+              "RelativeToolTip": "frmLocalDrivingLicenseApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:47:47.64Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsLocalLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\LocalDrivingLicenseApplicationsBuisnessLayer\\clsLocalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "..\\LocalDrivingLicenseApplicationsBuisnessLayer\\clsLocalLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\LocalDrivingLicenseApplicationsBuisnessLayer\\clsLocalLicenseApplication.cs",
+              "RelativeToolTip": "..\\LocalDrivingLicenseApplicationsBuisnessLayer\\clsLocalLicenseApplication.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwDUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:01:29.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationsDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\ApplicationsDataAccessLayer\\ApplicationsDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationsDataAccessLayer\\ApplicationsDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\ApplicationsDataAccessLayer\\ApplicationsDataAccess.cs",
+              "RelativeToolTip": "..\\ApplicationsDataAccessLayer\\ApplicationsDataAccess.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAA6wNgAAACoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T22:45:54.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsApplications.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\ApplicationBuisnessLayer\\clsApplications.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationBuisnessLayer\\clsApplications.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\ApplicationBuisnessLayer\\clsApplications.cs",
+              "RelativeToolTip": "..\\ApplicationBuisnessLayer\\clsApplications.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwHAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T22:38:19.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "LicenseClassesDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\LicenseClassesDataAccessLayer\\LicenseClassesDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\LicenseClassesDataAccessLayer\\LicenseClassesDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\LicenseClassesDataAccessLayer\\LicenseClassesDataAccess.cs",
+              "RelativeToolTip": "..\\LicenseClassesDataAccessLayer\\LicenseClassesDataAccess.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwHgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T22:18:14.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "clsLicenseClasses.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\LicenseClassesBuisnessLayer\\clsLicenseClasses.cs",
+              "RelativeDocumentMoniker": "..\\LicenseClassesBuisnessLayer\\clsLicenseClasses.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\LicenseClassesBuisnessLayer\\clsLicenseClasses.cs",
+              "RelativeToolTip": "..\\LicenseClassesBuisnessLayer\\clsLicenseClasses.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T22:15:13.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmNewLocalDrivingLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmNewLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "frmNewLocalDrivingLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmNewLocalDrivingLicenseApplication.cs",
+              "RelativeToolTip": "frmNewLocalDrivingLicenseApplication.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:44:10.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "frmLoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmLoginForm.cs",
+              "RelativeDocumentMoniker": "frmLoginForm.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmLoginForm.cs",
+              "RelativeToolTip": "frmLoginForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAApwBgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T19:03:35.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmNewLocalDrivingLicenseApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmNewLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "frmNewLocalDrivingLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmNewLocalDrivingLicenseApplication.cs [Design]",
+              "RelativeToolTip": "frmNewLocalDrivingLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T13:36:59.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "frmEditTestType.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmEditTestType.cs",
+              "RelativeDocumentMoniker": "frmEditTestType.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmEditTestType.cs",
+              "RelativeToolTip": "frmEditTestType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:42:05.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "frmEditTestType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmEditTestType.cs",
+              "RelativeDocumentMoniker": "frmEditTestType.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmEditTestType.cs [Design]",
+              "RelativeToolTip": "frmEditTestType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:38:20.473Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "frmManageTestTypes.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageTestTypes.cs",
+              "RelativeDocumentMoniker": "frmManageTestTypes.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageTestTypes.cs",
+              "RelativeToolTip": "frmManageTestTypes.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:31:52.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "frmManageTestTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageTestTypes.cs",
+              "RelativeDocumentMoniker": "frmManageTestTypes.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmManageTestTypes.cs [Design]",
+              "RelativeToolTip": "frmManageTestTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:28:48.996Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "TestTypesDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\TestTypesDataAccessLayer\\TestTypesDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\TestTypesDataAccessLayer\\TestTypesDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\TestTypesDataAccessLayer\\TestTypesDataAccess.cs",
+              "RelativeToolTip": "..\\TestTypesDataAccessLayer\\TestTypesDataAccess.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:22:18.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "clsTestTypes.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\TestTypesBuisnessLayer\\clsTestTypes.cs",
+              "RelativeDocumentMoniker": "..\\TestTypesBuisnessLayer\\clsTestTypes.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\TestTypesBuisnessLayer\\clsTestTypes.cs",
+              "RelativeToolTip": "..\\TestTypesBuisnessLayer\\clsTestTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:17:34.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "frmEditAppTypes.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmEditAppTypes.cs",
+              "RelativeDocumentMoniker": "frmEditAppTypes.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmEditAppTypes.cs",
+              "RelativeToolTip": "frmEditAppTypes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T22:12:54.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "frmEditAppTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmEditAppTypes.cs",
+              "RelativeDocumentMoniker": "frmEditAppTypes.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmEditAppTypes.cs [Design]",
+              "RelativeToolTip": "frmEditAppTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T22:03:39.5Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "ApplicationTypesDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\ApplicationTypesDataAccessLayer\\ApplicationTypesDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTypesDataAccessLayer\\ApplicationTypesDataAccess.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\ApplicationTypesDataAccessLayer\\ApplicationTypesDataAccess.cs",
+              "RelativeToolTip": "..\\ApplicationTypesDataAccessLayer\\ApplicationTypesDataAccess.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAE4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T21:30:50.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "clsApplicationTypes.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\ApplicationTypesBuisnessLayer\\clsApplicationTypes.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTypesBuisnessLayer\\clsApplicationTypes.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\ApplicationTypesBuisnessLayer\\clsApplicationTypes.cs",
+              "RelativeToolTip": "..\\ApplicationTypesBuisnessLayer\\clsApplicationTypes.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T21:29:19.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "frmApplicationTypes.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmApplicationTypes.cs",
+              "RelativeDocumentMoniker": "frmApplicationTypes.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmApplicationTypes.cs",
+              "RelativeToolTip": "frmApplicationTypes.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAC8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T21:26:40.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "frmApplicationTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmApplicationTypes.cs",
+              "RelativeDocumentMoniker": "frmApplicationTypes.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmApplicationTypes.cs [Design]",
+              "RelativeToolTip": "frmApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T21:21:42.829Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmChangePassword.cs",
+              "RelativeToolTip": "frmChangePassword.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T19:49:34.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T19:43:04.131Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\CurrentUserInformation\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "..\\CurrentUserInformation\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\CurrentUserInformation\\CurrentUser.cs",
+              "RelativeToolTip": "..\\CurrentUserInformation\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T19:11:40.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "frmLoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmLoginForm.cs",
+              "RelativeDocumentMoniker": "frmLoginForm.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmLoginForm.cs [Design]",
+              "RelativeToolTip": "frmLoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T18:37:05.232Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmUserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmUserDetails.cs",
+              "RelativeDocumentMoniker": "frmUserDetails.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmUserDetails.cs",
+              "RelativeToolTip": "frmUserDetails.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T18:00:57.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmUserDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmUserDetails.cs",
+              "RelativeDocumentMoniker": "frmUserDetails.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmUserDetails.cs [Design]",
+              "RelativeToolTip": "frmUserDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:59:18.333Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "UserDetailsControl.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\UserDetailsControl.cs",
+              "RelativeDocumentMoniker": "UserDetailsControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\UserDetailsControl.cs",
+              "RelativeToolTip": "UserDetailsControl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:55:36.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDetailsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\UserDetailsControl.cs",
+              "RelativeDocumentMoniker": "UserDetailsControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\UserDetailsControl.cs [Design]",
+              "RelativeToolTip": "UserDetailsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:48:51.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmAddEditUser.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\FrmAddEditUser.cs",
+              "RelativeDocumentMoniker": "FrmAddEditUser.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\FrmAddEditUser.cs",
+              "RelativeToolTip": "FrmAddEditUser.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:01:22.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PersonDetailsWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\PersonDetailsWithFilter.cs",
+              "RelativeDocumentMoniker": "PersonDetailsWithFilter.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\PersonDetailsWithFilter.cs",
+              "RelativeToolTip": "PersonDetailsWithFilter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:47:22.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PersonDetailsWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\PersonDetailsWithFilter.cs",
+              "RelativeDocumentMoniker": "PersonDetailsWithFilter.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\PersonDetailsWithFilter.cs [Design]",
+              "RelativeToolTip": "PersonDetailsWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:47:11.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmAddEditUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\FrmAddEditUser.cs",
+              "RelativeDocumentMoniker": "FrmAddEditUser.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\FrmAddEditUser.cs [Design]",
+              "RelativeToolTip": "FrmAddEditUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:27:01.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FrmManageUsers.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\FrmManageUsers.cs",
+              "RelativeDocumentMoniker": "FrmManageUsers.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\FrmManageUsers.cs",
+              "RelativeToolTip": "FrmManageUsers.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAADUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:04:30.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FrmManageUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\FrmManageUsers.cs",
+              "RelativeDocumentMoniker": "FrmManageUsers.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\FrmManageUsers.cs [Design]",
+              "RelativeToolTip": "FrmManageUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:01:19.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "usersData.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\Desktop\\UsersDataAccessLayer\\usersData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\UsersDataAccessLayer\\usersData.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\Desktop\\UsersDataAccessLayer\\usersData.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\UsersDataAccessLayer\\usersData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T21:35:02.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "clsUsers.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\Desktop\\UsersBuisnessLayer\\clsUsers.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\UsersBuisnessLayer\\clsUsers.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\Desktop\\UsersBuisnessLayer\\clsUsers.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\UsersBuisnessLayer\\clsUsers.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wBwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T21:03:37.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "PeopleData.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\PeopleDataAccessLayer\\PeopleData.cs",
+              "RelativeDocumentMoniker": "..\\PeopleDataAccessLayer\\PeopleData.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\PeopleDataAccessLayer\\PeopleData.cs",
+              "RelativeToolTip": "..\\PeopleDataAccessLayer\\PeopleData.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwv9IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:24:00.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PersonDetailsControl.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\PersonDetailsControl.cs",
+              "RelativeDocumentMoniker": "PersonDetailsControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\PersonDetailsControl.cs",
+              "RelativeToolTip": "PersonDetailsControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:10:32.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddPersonControl.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\AddPersonControl.cs",
+              "RelativeDocumentMoniker": "AddPersonControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\AddPersonControl.cs",
+              "RelativeToolTip": "AddPersonControl.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAA9wNgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:53:29.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAqwIUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:28:25.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEditPerson.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\AddEditPerson.cs",
+              "RelativeDocumentMoniker": "AddEditPerson.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\AddEditPerson.cs",
+              "RelativeToolTip": "AddEditPerson.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:05:21.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEditPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\AddEditPerson.cs",
+              "RelativeDocumentMoniker": "AddEditPerson.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\AddEditPerson.cs [Design]",
+              "RelativeToolTip": "AddEditPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:04:42.125Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "frmPersonDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmPersonDetails.cs",
+              "RelativeDocumentMoniker": "frmPersonDetails.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmPersonDetails.cs [Design]",
+              "RelativeToolTip": "frmPersonDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:05:51.196Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PeopleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\PeopleForm.cs",
+              "RelativeDocumentMoniker": "PeopleForm.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\PeopleForm.cs [Design]",
+              "RelativeToolTip": "PeopleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T00:24:13.409Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "frmPersonDetails.cs",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmPersonDetails.cs",
+              "RelativeDocumentMoniker": "frmPersonDetails.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\frmPersonDetails.cs",
+              "RelativeToolTip": "frmPersonDetails.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:08:42.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PersonDetailsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\PersonDetailsControl.cs",
+              "RelativeDocumentMoniker": "PersonDetailsControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\PersonDetailsControl.cs [Design]",
+              "RelativeToolTip": "PersonDetailsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:09:18.135Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddPersonControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\AddPersonControl.cs",
+              "RelativeDocumentMoniker": "AddPersonControl.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\AddPersonControl.cs [Design]",
+              "RelativeToolTip": "AddPersonControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T00:11:24.435Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\KimoStore\\source\\repos\\DVLD project\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T18:52:33.862Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
